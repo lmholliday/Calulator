@@ -1,0 +1,166 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="0464320c-0246-42ab-9b27-d1e2e65a9a5f" name="Default Changelist" comment="Base 10 Calculator, with clear" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="PREVIOUS_COMMIT_AUTHORS">
+      <list>
+        <option value="haden &lt;hgfoster@bsu.edu&gt;" />
+      </list>
+    </option>
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IgnoredFileRootStore">
+    <option name="generatedRoots">
+      <set>
+        <option value="$PROJECT_DIR$/.idea" />
+      </set>
+    </option>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1ZAyE1cb3DLFrfRQfvKIK3zbjRQ" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ASKED_SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="project.propVCSSupport.Mappings" />
+  </component>
+  <component name="RunManager" selected="Application.CalculatorUI">
+    <configuration name="Base10CalculatorUI (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Base10CalculatorUI" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Base10CalculatorUI" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Base10CalculatorUI" />
+      <module name="Base10Calculator" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="CalculatorUI" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="CalculatorUI" />
+      <module name="Calulator" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.CalculatorUI" />
+        <item itemvalue="Application.Base10CalculatorUI (1)" />
+        <item itemvalue="Application.Base10CalculatorUI" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="0464320c-0246-42ab-9b27-d1e2e65a9a5f" name="Default Changelist" comment="" />
+      <created>1584296077312</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1584296077312</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Base 10 Calculator, with clear" />
+    <option name="LAST_COMMIT_MESSAGE" value="Base 10 Calculator, with clear" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="360" y="0" key="#Base10CalculatorUI_(1)" timestamp="1584316476281">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="360" y="0" key="#Base10CalculatorUI_(1)/0.0.1280.680@0.0.1280.680" timestamp="1584316476281" />
+    <state x="286" y="0" key="#Project_Structure" timestamp="1584317008074">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="286" y="0" key="#Project_Structure/0.0.1280.680@0.0.1280.680" timestamp="1584317008074" />
+    <state x="322" y="115" key="#Project_Structure/0.23.1440.830@0.23.1440.830" timestamp="1584296368732" />
+    <state x="339" y="0" key="CommitChangelistDialog2" timestamp="1584317389285">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="339" y="0" key="CommitChangelistDialog2/0.0.1280.680@0.0.1280.680" timestamp="1584317389285" />
+    <state x="381" y="23" key="CommitChangelistDialog2/0.23.1440.829@0.23.1440.829" timestamp="1584297436159" />
+    <state x="531" y="243" width="258" height="210" key="Github.ShareDialog" timestamp="1584317322675">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="531" y="243" width="258" height="210" key="Github.ShareDialog/0.0.1280.680@0.0.1280.680" timestamp="1584317322675" />
+    <state x="597" y="319" key="Github.ShareDialog/0.23.1440.829@0.23.1440.829" timestamp="1584297544943" />
+    <state width="1358" height="202" key="GridCell.Tab.0.bottom" timestamp="1584297372066">
+      <screen x="0" y="23" width="1440" height="829" />
+    </state>
+    <state width="1358" height="202" key="GridCell.Tab.0.bottom/0.23.1440.829@0.23.1440.829" timestamp="1584297372066" />
+    <state width="1358" height="202" key="GridCell.Tab.0.bottom/0.23.1440.830@0.23.1440.830" timestamp="1584296488695" />
+    <state width="1358" height="202" key="GridCell.Tab.0.center" timestamp="1584297372065">
+      <screen x="0" y="23" width="1440" height="829" />
+    </state>
+    <state width="1358" height="202" key="GridCell.Tab.0.center/0.23.1440.829@0.23.1440.829" timestamp="1584297372065" />
+    <state width="1358" height="202" key="GridCell.Tab.0.center/0.23.1440.830@0.23.1440.830" timestamp="1584296488693" />
+    <state width="1358" height="202" key="GridCell.Tab.0.left" timestamp="1584297372065">
+      <screen x="0" y="23" width="1440" height="829" />
+    </state>
+    <state width="1358" height="202" key="GridCell.Tab.0.left/0.23.1440.829@0.23.1440.829" timestamp="1584297372065" />
+    <state width="1358" height="202" key="GridCell.Tab.0.left/0.23.1440.830@0.23.1440.830" timestamp="1584296488692" />
+    <state width="1358" height="202" key="GridCell.Tab.0.right" timestamp="1584297372065">
+      <screen x="0" y="23" width="1440" height="829" />
+    </state>
+    <state width="1358" height="202" key="GridCell.Tab.0.right/0.23.1440.829@0.23.1440.829" timestamp="1584297372065" />
+    <state width="1358" height="202" key="GridCell.Tab.0.right/0.23.1440.830@0.23.1440.830" timestamp="1584296488694" />
+    <state x="363" y="91" key="Vcs.Push.Dialog.v2" timestamp="1584297579286">
+      <screen x="0" y="23" width="1440" height="829" />
+    </state>
+    <state x="363" y="91" key="Vcs.Push.Dialog.v2/0.23.1440.829@0.23.1440.829" timestamp="1584297579286" />
+    <state x="450" y="259" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1584317435977">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="450" y="259" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1280.680@0.0.1280.680" timestamp="1584317435977" />
+    <state x="91" y="37" key="new project wizard" timestamp="1584316576215">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="91" y="37" key="new project wizard/0.0.1280.680@0.0.1280.680" timestamp="1584316576215" />
+  </component>
+</project>
